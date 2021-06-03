@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="210405-chunky-friction" sample-rate="44100" end-is-free="0" id-counter="6433" name-counter="1" event-counter="599" vca-counter="1">
+<Session version="3002" name="210405-chunky-friction" sample-rate="44100" end-is-free="0" id-counter="12534" name-counter="1" event-counter="1212" vca-counter="1">
   <ProgramVersion created-with="Ardour 1:5.12.0-3ubuntu4" modified-with="Ardour 1:5.12.0-3ubuntu4"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -90,6 +90,9 @@
     <Source name="Lead Guit-2.wav" type="audio" flags="" id="3763" captured-for="Lead Guit" channel="0" origin="" gain="1"/>
     <Source name="junk-1%L.wav" type="audio" flags="" id="5879" captured-for="junk" channel="0" origin="" gain="1"/>
     <Source name="junk-1%R.wav" type="audio" flags="" id="5881" captured-for="junk" channel="0" origin="" gain="1"/>
+    <Source name="Analog Guitar.wav" type="audio" flags="" id="9645" channel="0" origin="" gain="1"/>
+    <Source name="Analog Guitar-6.wav" type="audio" flags="" id="9700" channel="0" origin="" gain="1"/>
+    <Source name="Analog Guitar-7.wav" type="audio" flags="" id="10117" channel="0" origin="" gain="1"/>
   </Sources>
   <Regions>
     <Region name="chello-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1142784" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="257" type="audio" first-edit="nothing" source-0="230" master-source-0="230" channels="1"/>
@@ -114,14 +117,17 @@
     <Region name="guit 1-2.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="921966" length="664210" position="2364863" beat="71.5" sync-position="921966" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="1599" type="audio" first-edit="nothing" source-0="1420" master-source-0="1420" channels="1"/>
     <Region name="guit 1-2.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1451166" length="135010" position="2894063" beat="87.5" sync-position="1451166" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="1626" type="audio" first-edit="nothing" source-0="1420" master-source-0="1420" channels="1"/>
     <Region name="Analog Guitar-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="22784" position="1395455" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2886" type="audio" first-edit="nothing" source-0="2738" master-source-0="2738" channels="1"/>
+    <Region name="Analog Guitar-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="22784" position="1395455" beat="42.190627362055935" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2894" type="audio" first-edit="nothing" source-0="2738" master-source-0="2738" channels="1"/>
     <Region name="Analog Guitar-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="509440" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2919" type="audio" first-edit="nothing" source-0="2908" master-source-0="2908" channels="1"/>
     <Region name="Analog Guitar-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="509440" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2927" type="audio" first-edit="nothing" source-0="2908" master-source-0="2908" channels="1"/>
     <Region name="Analog Guitar-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1545216" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2965" type="audio" first-edit="nothing" source-0="2941" master-source-0="2941" channels="1"/>
     <Region name="Analog Guitar-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1708160" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3007" type="audio" first-edit="nothing" source-0="2987" master-source-0="2987" channels="1"/>
+    <Region name="Analog Guitar-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="310079" length="1050131" position="305944" beat="9.25" sync-position="260466" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3015" type="audio" first-edit="nothing" source-0="2987" master-source-0="2987" channels="1"/>
     <Region name="Dirt Guitar-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="311040" position="1455300" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3110" type="audio" first-edit="nothing" source-0="3032" master-source-0="3032" channels="1"/>
     <Region name="Dirt Guitar-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="311040" position="1455300" beat="44" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3118" type="audio" first-edit="nothing" source-0="3032" master-source-0="3032" channels="1"/>
     <Region name="Dirt Guitar-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1562880" position="1455300" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3166" type="audio" first-edit="nothing" source-0="3132" master-source-0="3132" channels="1"/>
     <Region name="Dirt Guitar-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1298304" position="1455300" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3199" type="audio" first-edit="nothing" source-0="3188" master-source-0="3188" channels="1"/>
+    <Region name="Dirt Guitar-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="90956" length="1099744" position="1546256" beat="46.75" sync-position="90956" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3207" type="audio" first-edit="nothing" source-0="3188" master-source-0="3188" channels="1"/>
     <Region name="Clean Guitar-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="124288" position="2279236" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3322" type="audio" first-edit="nothing" source-0="3300" master-source-0="3300" channels="1"/>
     <Region name="Clean Guitar-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="124288" position="2279236" beat="68.911141345427055" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3330" type="audio" first-edit="nothing" source-0="3300" master-source-0="3300" channels="1"/>
     <Region name="Clean Guitar-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1600128" position="1455300" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3355" type="audio" first-edit="nothing" source-0="3344" master-source-0="3344" channels="1"/>
@@ -132,7 +138,8 @@
     <Region name="Clean Guitar-3.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1773647" length="3098673" position="3228947" beat="97.625" sync-position="1773647" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.99999988079071045" id="3453" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
     <Region name="Clean Guitar-3.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1190700" position="1455300" beat="44" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.369390606880188" id="3477" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
     <Region name="Clean Guitar-3.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1190700" length="582947" position="2646000" beat="80" sync-position="1190700" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.0793607234954834" id="3486" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
-    <Region name="Clean Guitar-3.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1719900" length="3152420" position="3175200" beat="96" sync-position="1773647" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.99999988079071045" id="3595" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
+    <Region name="Clean Guitar-3.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1190700" length="3580369" position="2646000" beat="80" sync-position="1190700" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.96198123693466187" id="3583" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
+    <Region name="Clean Guitar-3.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1719900" length="3152420" position="3175200" beat="96" sync-position="1719900" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.99999988079071045" id="3595" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
     <Region name="Clean Guitar-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1749760" position="1455300" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3618" type="audio" first-edit="nothing" source-0="3431" master-source-0="3431" channels="1"/>
     <Region name="Clean Guitar-5" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1218176" position="132300" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3655" type="audio" first-edit="nothing" source-0="3640" master-source-0="3640" channels="1"/>
     <Region name="Clean Guitar-5.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1218176" position="132300" beat="4" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3663" type="audio" first-edit="nothing" source-0="3640" master-source-0="3640" channels="1"/>
@@ -140,19 +147,141 @@
     <Region name="Lead Guit-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="134144" position="1323000" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3741" type="audio" first-edit="nothing" source-0="3555" master-source-0="3555" channels="1"/>
     <Region name="Lead Guit-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="134144" position="1323000" beat="40" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3749" type="audio" first-edit="nothing" source-0="3555" master-source-0="3555" channels="1"/>
     <Region name="Lead Guit-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2559872" position="128166" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3774" type="audio" first-edit="nothing" source-0="3763" master-source-0="3763" channels="1"/>
-    <Region name="Lead Guit-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="181913" length="2377959" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.2438110113143921" id="3782" type="audio" first-edit="nothing" source-0="3763" master-source-0="3763" channels="1"/>
+    <Region name="Lead Guit-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="181913" length="2377959" position="0" beat="0" sync-position="181913" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.2438110113143921" id="3782" type="audio" first-edit="nothing" source-0="3763" master-source-0="3763" channels="1"/>
     <Region name="Clean Guitar-3.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1773647" length="3098673" position="3249619" beat="98.25" sync-position="1773647" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.99999988079071045" id="5642" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
     <Region name="junk-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6215168" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="5891" type="audio" first-edit="nothing" source-0="5879" source-1="5881" master-source-0="5879" master-source-1="5881" channels="2"/>
     <Region name="junk-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="6215168" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.5786755084991455" id="5899" type="audio" first-edit="nothing" source-0="5879" source-1="5881" master-source-0="5879" master-source-1="5881" channels="2"/>
     <Region name="junk-1.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3109050" length="3106118" position="3109050" beat="94" sync-position="3109050" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.5786755084991455" id="5937" type="audio" first-edit="nothing" source-0="5879" source-1="5881" master-source-0="5879" master-source-1="5881" channels="2"/>
     <Region name="junk-1.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3109050" length="3106118" position="3237216" beat="97.875" sync-position="3109050" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.5786755084991455" id="5955" type="audio" first-edit="nothing" source-0="5879" source-1="5881" master-source-0="5879" master-source-1="5881" channels="2"/>
+    <Region name="Bass guit" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3109050" length="3106118" position="3109050" beat="94" sync-position="3109050" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.5786755084991455" id="5986" type="audio" first-edit="nothing" source-0="5879" source-1="5881" master-source-0="5879" master-source-1="5881" channels="2"/>
+    <Region name="Analog Guitar-4.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="310079" length="314212" position="305944" beat="9.25" sync-position="310079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="8498" type="audio" first-edit="nothing" source-0="2987" master-source-0="2987" channels="1"/>
+    <Region name="Analog Guitar-4.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="624291" length="735919" position="620156" beat="18.75" sync-position="624291" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="8507" type="audio" first-edit="nothing" source-0="2987" master-source-0="2987" channels="1"/>
+    <Region name="Analog Guitar-4.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="310079" length="272869" position="305944" beat="9.25" sync-position="310079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="8540" type="audio" first-edit="nothing" source-0="2987" master-source-0="2987" channels="1"/>
+    <Region name="Analog Guitar-4.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="582948" length="777262" position="578813" beat="17.5" sync-position="582948" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="8549" type="audio" first-edit="nothing" source-0="2987" master-source-0="2987" channels="1"/>
+    <Region name="Analog Guitar-4.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="359691" length="219122" position="355556" beat="10.75" sync-position="310079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="8574" type="audio" first-edit="nothing" source-0="2987" master-source-0="2987" channels="1"/>
+    <Region name="Analog Guitar-4.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="566409" length="793801" position="566052" beat="17.11419501133787" sync-position="578813" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="8583" type="audio" first-edit="nothing" source-0="2987" master-source-0="2987" channels="1"/>
+    <Region name="Analog Guitar-4.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="566409" length="793801" position="566409" beat="17.124988662131521" sync-position="566409" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="8692" type="audio" first-edit="nothing" source-0="2987" master-source-0="2987" channels="1"/>
+    <Region name="Analog Guitar-4.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="310079" length="268734" position="306301" beat="9.2608012093726373" sync-position="310079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="8702" type="audio" first-edit="nothing" source-0="2987" master-source-0="2987" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1 (1)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1053909" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="8743" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1">
+      <NestedSource>
+        <Source name="Analog Guitar.1 compound-1 (1)" type="audio" flags="" id="8741" playlist="8721" offset="0" length="1053909" original="8741" channel="0">
+          <Playlist id="8721" name="Analog Guitar.1 compound-1 (1)" type="audio" orig-track-id="8722" shared-with-ids="" frozen="0" combine-ops="0">
+            <Region name="Analog Guitar-4.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="310079" length="268734" position="0" beat="0" sync-position="310079" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="0" fade-out-active="1" scale-amplitude="1" id="8723" type="audio" first-edit="nothing" source-0="2987" master-source-0="2987" channels="1">
+              <Envelope default="yes"/>
+              <FadeIn>
+                <AutomationList automation-id="fadein" id="8724" interpolation-style="Curved" state="Off">
+                  <events>0 1.0000000116860974e-07
+64 1
+</events>
+                </AutomationList>
+              </FadeIn>
+              <InverseFadeIn>
+                <AutomationList automation-id="fadein" id="8725" interpolation-style="Curved" state="Off">
+                  <events>0 1
+64 1.0000000116860974e-07
+</events>
+                </AutomationList>
+              </InverseFadeIn>
+              <FadeOut>
+                <AutomationList automation-id="fadeout" id="8726" interpolation-style="Curved" state="Off">
+                  <events>0 1
+64 1.0000000116860974e-07
+</events>
+                </AutomationList>
+              </FadeOut>
+              <InverseFadeOut>
+                <AutomationList automation-id="fadeout" id="8727" interpolation-style="Curved" state="Off">
+                  <events>0 1.0000000116860974e-07
+64 1
+</events>
+                </AutomationList>
+              </InverseFadeOut>
+            </Region>
+            <Region name="Analog Guitar-4.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="566409" length="793801" position="260108" beat="7.8641874527588804" sync-position="566409" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="0" scale-amplitude="1" id="8732" type="audio" first-edit="nothing" source-0="2987" master-source-0="2987" channels="1">
+              <Envelope default="yes"/>
+              <FadeIn>
+                <AutomationList automation-id="fadein" id="8733" interpolation-style="Curved" state="Off">
+                  <events>0 1.0000000116860974e-07
+64 1
+</events>
+                </AutomationList>
+              </FadeIn>
+              <InverseFadeIn>
+                <AutomationList automation-id="fadein" id="8734" interpolation-style="Curved" state="Off">
+                  <events>0 1
+64 1.0000000116860974e-07
+</events>
+                </AutomationList>
+              </InverseFadeIn>
+              <FadeOut>
+                <AutomationList automation-id="fadeout" id="8735" interpolation-style="Curved" state="Off">
+                  <events>0 1
+64 1.0000000116860974e-07
+</events>
+                </AutomationList>
+              </FadeOut>
+              <InverseFadeOut>
+                <AutomationList automation-id="fadeout" id="8736" interpolation-style="Curved" state="Off">
+                  <events>0 1.0000000116860974e-07
+64 1
+</events>
+                </AutomationList>
+              </InverseFadeOut>
+            </Region>
+          </Playlist>
+        </Source>
+      </NestedSource>
+    </Region>
+    <Region name="Analog Guitar.1 compound-1.1 (1)" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1053909" position="306301" beat="9.2608012093726373" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="8751" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Bass guit.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3187603" length="3027565" position="3245484" beat="98.125" sync-position="3109050" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.5786755084991455" id="8972" type="audio" first-edit="nothing" source-0="5879" source-1="5881" master-source-0="5879" master-source-1="5881" channels="2"/>
+    <Region name="Clean Guitar-4.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1112147" position="2505431" beat="75.749992441421014" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.79432821273803711" id="9200" type="audio" first-edit="nothing" source-0="3431" master-source-0="3431" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="206362" length="847547" position="512663" beat="15.5" sync-position="206362" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9599" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="206362" length="66150" position="512663" beat="15.5" sync-position="206362" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9617" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="272512" length="781397" position="578813" beat="17.5" sync-position="272512" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9626" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.4@94" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="66150" position="512663" beat="0" sync-position="0" ancestral-start="206362" ancestral-length="66150" stretch="1" shift="0.9438742995262146" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9647" type="audio" first-edit="nothing" source-0="9645" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="206362" length="45478" position="512663" beat="15.5" sync-position="206362" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9673" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="251840" length="802069" position="558141" beat="16.875" sync-position="251840" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9681" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.5@99" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="45478" position="512663" beat="0" sync-position="0" ancestral-start="206362" ancestral-length="45478" stretch="1" shift="0.994240403175354" positional-lock-style="AudioTime" layering-index="11" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9702" type="audio" first-edit="nothing" source-0="9700" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="251840" length="28940" position="558141" beat="16.875" sync-position="251840" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9787" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="280780" length="773129" position="587081" beat="17.75" sync-position="280780" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9795" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="251840" length="28940" position="343153" beat="10.374996220710507" sync-position="251840" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9857" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="251840" length="24806" position="558141" beat="16.875" sync-position="251840" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9887" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="276646" length="777263" position="582947" beat="17.625" sync-position="276646" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9896" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="272512" length="781397" position="578813" beat="17.5" sync-position="272512" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9927" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="293183" length="760726" position="599484" beat="18.125" sync-position="293183" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9954" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.3@99" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="45478" position="0" beat="0" sync-position="0" ancestral-start="206362" ancestral-length="45478" stretch="1" shift="0.99711602926254272" positional-lock-style="AudioTime" layering-index="13" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="10327" type="audio" first-edit="nothing" source-0="10117" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="293183" length="508529" position="599484" beat="18.125" sync-position="293183" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="10630" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="801712" length="252197" position="1108013" beat="33.5" sync-position="801712" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="10639" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="293183" length="508529" position="599484" beat="18.125" sync-position="293183" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="10660" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="801712" length="252197" position="1108013" beat="33.5" sync-position="801712" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="10668" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="293183" length="512663" position="599484" beat="18.125" sync-position="293183" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="10689" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Analog Guitar.1 compound-1.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="805846" length="248063" position="1112147" beat="33.625" sync-position="805846" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="10697" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1"/>
+    <Region name="Clean Guitar-3.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1190700" length="1347806" position="3208275" beat="97" sync-position="1190700" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.96198123693466187" id="10935" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
+    <Region name="Clean Guitar-3.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2464088" length="2306981" position="4217063" beat="127.5" sync-position="2538506" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.96198123693466187" id="10944" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
+    <Region name="Clean Guitar-3.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1190700" length="227391" position="2646000" beat="80" sync-position="1190700" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.96198123693466187" id="10962" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
+    <Region name="Clean Guitar-3.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1418091" length="1120415" position="2873391" beat="86.875" sync-position="1418091" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.96198123693466187" id="10971" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
+    <Region name="Clean Guitar-3.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1504913" length="1033593" position="3522488" beat="106.5" sync-position="1504913" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.96198123693466187" id="11008" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
+    <Region name="Clean Guitar-3.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1504913" length="248062" position="3522488" beat="106.5" sync-position="1504913" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.96198123693466187" id="11026" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
+    <Region name="Bass guit.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4771069" length="1444099" position="4828950" beat="146" sync-position="4771069" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.5786755084991455" id="11239" type="audio" first-edit="nothing" source-0="5879" source-1="5881" master-source-0="5879" master-source-1="5881" channels="2"/>
+    <Region name="Clean Guitar-3.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="330749" length="219122" position="3419128" beat="103.375" sync-position="330749" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.369390606880188" id="11466" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
+    <Region name="Clean Guitar-3.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="330749" length="219122" position="3414994" beat="103.25" sync-position="330749" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.369390606880188" id="11777" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
+    <Region name="Clean Guitar-3.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2464088" length="140568" position="4217063" beat="127.5" sync-position="2464088" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.96198123693466187" id="12125" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
+    <Region name="Clean Guitar-3.24" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2604656" length="2166413" position="4357631" beat="131.75" sync-position="2604656" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.96198123693466187" id="12134" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
+    <Region name="Clean Guitar-3.26" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3241350" length="1529719" position="4365900" beat="132" sync-position="3241350" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.96198123693466187" id="12165" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
+    <Region name="Clean Guitar-3.27" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2464088" length="148837" position="4274944" beat="129.25" sync-position="2464088" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.96198123693466187" id="12304" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
+    <Region name="Clean Guitar-3.28" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3241350" length="996384" position="4365900" beat="132" sync-position="3241350" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.96198123693466187" id="12335" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
+    <Region name="Clean Guitar-3.29" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4237734" length="533335" position="5362284" beat="162.125" sync-position="4237734" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.96198123693466187" id="12344" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1"/>
   </Regions>
+  <CompoundAssociations>
+    <CompoundAssociation copy="8723" original="8702"/>
+    <CompoundAssociation copy="8732" original="8692"/>
+  </CompoundAssociations>
   <Selection>
-    <StripableAutomationControl stripable="3510" control="0" order="29"/>
+    <StripableAutomationControl stripable="54" control="58" order="16"/>
   </Selection>
   <Locations>
     <Location id="278" name="session" start="0" end="5287866" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
-    <Location id="2754" name="Loop" start="1455300" end="2646000" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
+    <Location id="2754" name="Loop" start="306301" end="1360210" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
   </Locations>
   <Bundles/>
   <VCAManager/>
@@ -164,19 +293,21 @@
       <Controllable name="solo-safe" id="70" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="Master" id="82" direction="Input" default-type="audio" user-latency="0">
         <Port type="audio" name="Master/audio_in 1">
+          <Connection other="Bass/audio_out 1"/>
           <Connection other="Clean Guitar/audio_out 1"/>
           <Connection other="Dirt Guitar/audio_out 1"/>
+          <Connection other="Keytar/audio_out 1"/>
           <Connection other="Lead Guit/audio_out 1"/>
           <Connection other="chello/audio_out 1"/>
-          <Connection other="guit 1/audio_out 1"/>
           <Connection other="junk/audio_out 1"/>
         </Port>
         <Port type="audio" name="Master/audio_in 2">
+          <Connection other="Bass/audio_out 2"/>
           <Connection other="Clean Guitar/audio_out 2"/>
           <Connection other="Dirt Guitar/audio_out 2"/>
+          <Connection other="Keytar/audio_out 2"/>
           <Connection other="Lead Guit/audio_out 2"/>
           <Connection other="chello/audio_out 2"/>
-          <Connection other="guit 1/audio_out 2"/>
           <Connection other="junk/audio_out 2"/>
         </Port>
       </IO>
@@ -223,7 +354,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="57" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="58" flags="GainLike" value="1"/>
+        <Controllable name="gaincontrol" id="58" flags="GainLike" value="0.93117648363113403"/>
       </Processor>
       <Processor id="157" name="Calf Compressor" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Compressor" count="1" custom="0">
         <Automation>
@@ -385,19 +516,19 @@
       <Controllable name="rec-enable" id="221" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="chello.1" name="chello" id="226" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
-    <Route id="1330" name="guit 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
+    <Route id="1330" name="Keytar" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
       <PresentationInfo order="2" flags="AudioTrack,OrderSet" color="3706048255"/>
       <Controllable name="solo" id="1338" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="1344" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="1346" flags="Toggle" value="0" solo-safe="0"/>
-      <IO name="guit 1" id="1358" direction="Input" default-type="audio" user-latency="0">
-        <Port type="audio" name="guit 1/audio_in 1"/>
+      <IO name="Keytar" id="1358" direction="Input" default-type="audio" user-latency="0">
+        <Port type="audio" name="Keytar/audio_in 1"/>
       </IO>
-      <IO name="guit 1" id="1359" direction="Output" default-type="audio" user-latency="0">
-        <Port type="audio" name="guit 1/audio_out 1">
+      <IO name="Keytar" id="1359" direction="Output" default-type="audio" user-latency="0">
+        <Port type="audio" name="Keytar/audio_out 1">
           <Connection other="Master/audio_in 1"/>
         </Port>
-        <Port type="audio" name="guit 1/audio_out 2">
+        <Port type="audio" name="Keytar/audio_out 2">
           <Connection other="Master/audio_in 2"/>
         </Port>
       </IO>
@@ -415,7 +546,7 @@
         <AutomationList automation-id="monitor" id="1369" interpolation-style="Discrete" state="Off"/>
       </Automation>
       <Pannable>
-        <Controllable name="pan-azimuth" id="1349" flags="" value="0.10493827160493827"/>
+        <Controllable name="pan-azimuth" id="1349" flags="" value="0.1049382686614998"/>
         <Controllable name="pan-width" id="1353" flags="" value="0"/>
         <Controllable name="pan-elevation" id="1351" flags="" value="0"/>
         <Controllable name="pan-frontback" id="1355" flags="" value="0"/>
@@ -438,13 +569,13 @@
         <Automation>
           <AutomationList automation-id="gain" id="1333" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="1334" flags="GainLike" value="0.13334175944328308"/>
+        <Controllable name="gaincontrol" id="1334" flags="GainLike" value="0.44913145899772644"/>
       </Processor>
       <Processor id="1362" name="meter-guit 1" active="1" user-latency="0" type="meter"/>
-      <Processor id="1363" name="guit 1" active="1" user-latency="0" own-input="1" own-output="0" output="guit 1" type="main-outs" role="Main">
+      <Processor id="1363" name="Keytar" active="1" user-latency="0" own-input="1" own-output="0" output="Keytar" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
-          <Controllable name="pan-azimuth" id="1349" flags="" value="0.10493827160493827"/>
+          <Controllable name="pan-azimuth" id="1349" flags="" value="0.1049382686614998"/>
           <Controllable name="pan-width" id="1353" flags="" value="0"/>
           <Controllable name="pan-elevation" id="1351" flags="" value="0"/>
           <Controllable name="pan-frontback" id="1355" flags="" value="0"/>
@@ -494,7 +625,7 @@
         <AutomationList automation-id="monitor" id="2732" interpolation-style="Discrete" state="Off"/>
       </Automation>
       <Pannable>
-        <Controllable name="pan-azimuth" id="2712" flags="" value="0.6481481481481487"/>
+        <Controllable name="pan-azimuth" id="2712" flags="" value="1"/>
         <Controllable name="pan-width" id="2716" flags="" value="0"/>
         <Controllable name="pan-elevation" id="2714" flags="" value="0"/>
         <Controllable name="pan-frontback" id="2718" flags="" value="0"/>
@@ -517,7 +648,112 @@
         <Automation>
           <AutomationList automation-id="gain" id="2696" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="2697" flags="GainLike" value="0.25329262018203735"/>
+        <Controllable name="gaincontrol" id="2697" flags="GainLike" value="0.17657738924026489"/>
+      </Processor>
+      <Processor id="9531" name="Calf Equalizer 5 Band" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Equalizer5Band" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-4" id="9532" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="9534" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="9536" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-15" id="9538" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-16" id="9540" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-17" id="9542" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-18" id="9544" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-19" id="9546" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-20" id="9548" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-21" id="9550" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-22" id="9552" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-23" id="9554" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-24" id="9556" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-25" id="9558" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-26" id="9560" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-27" id="9562" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-28" id="9564" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-29" id="9566" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-30" id="9568" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-31" id="9570" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-32" id="9572" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-33" id="9574" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-34" id="9576" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-35" id="9578" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-36" id="9580" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-37" id="9582" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-38" id="9584" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+          <Port symbol="bypass" value="0"/>
+          <Port symbol="level_in" value="1"/>
+          <Port symbol="level_out" value="1"/>
+          <Port symbol="ls_active" value="0"/>
+          <Port symbol="ls_level" value="0.03406611829996109"/>
+          <Port symbol="ls_freq" value="183.21195983886719"/>
+          <Port symbol="ls_q" value="0.7070000171661377"/>
+          <Port symbol="hs_active" value="0"/>
+          <Port symbol="hs_level" value="1"/>
+          <Port symbol="hs_freq" value="5000"/>
+          <Port symbol="hs_q" value="0.7070000171661377"/>
+          <Port symbol="p1_active" value="1"/>
+          <Port symbol="p1_level" value="1.5174612998962402"/>
+          <Port symbol="p1_freq" value="131.42117309570312"/>
+          <Port symbol="p1_q" value="1"/>
+          <Port symbol="p2_active" value="1"/>
+          <Port symbol="p2_level" value="3.5961992740631104"/>
+          <Port symbol="p2_freq" value="297.42306518554688"/>
+          <Port symbol="p2_q" value="1"/>
+          <Port symbol="p3_active" value="1"/>
+          <Port symbol="p3_level" value="1.9657824039459229"/>
+          <Port symbol="p3_freq" value="2009.2510986328125"/>
+          <Port symbol="p3_q" value="1"/>
+          <Port symbol="individuals" value="1"/>
+          <Port symbol="zoom" value="0.25"/>
+          <Port symbol="analyzer" value="1"/>
+          <Port symbol="analyzer_mode" value="1"/>
+        </lv2>
+        <Controllable name="Bypass" id="9533" flags="Toggle" value="0" parameter="4" symbol="bypass"/>
+        <Controllable name="Input Gain" id="9535" flags="" value="1" parameter="5" symbol="level_in"/>
+        <Controllable name="Output Gain" id="9537" flags="" value="1" parameter="6" symbol="level_out"/>
+        <Controllable name="LS Active" id="9539" flags="" value="0" parameter="15" symbol="ls_active"/>
+        <Controllable name="Level L" id="9541" flags="" value="0.03406611829996109" parameter="16" symbol="ls_level"/>
+        <Controllable name="Freq L" id="9543" flags="" value="183.21195983886719" parameter="17" symbol="ls_freq"/>
+        <Controllable name="LS Q" id="9545" flags="" value="0.7070000171661377" parameter="18" symbol="ls_q"/>
+        <Controllable name="HS Active" id="9547" flags="" value="0" parameter="19" symbol="hs_active"/>
+        <Controllable name="Level H" id="9549" flags="" value="1" parameter="20" symbol="hs_level"/>
+        <Controllable name="Freq H" id="9551" flags="" value="5000" parameter="21" symbol="hs_freq"/>
+        <Controllable name="HS Q" id="9553" flags="" value="0.7070000171661377" parameter="22" symbol="hs_q"/>
+        <Controllable name="F1 Active" id="9555" flags="" value="1" parameter="23" symbol="p1_active"/>
+        <Controllable name="Level 1" id="9557" flags="" value="1.5174612998962402" parameter="24" symbol="p1_level"/>
+        <Controllable name="Freq 1" id="9559" flags="" value="131.42117309570312" parameter="25" symbol="p1_freq"/>
+        <Controllable name="Q 1" id="9561" flags="" value="1" parameter="26" symbol="p1_q"/>
+        <Controllable name="F2 Active" id="9563" flags="" value="1" parameter="27" symbol="p2_active"/>
+        <Controllable name="Level 2" id="9565" flags="" value="3.5961992740631104" parameter="28" symbol="p2_level"/>
+        <Controllable name="Freq 2" id="9567" flags="" value="297.42306518554688" parameter="29" symbol="p2_freq"/>
+        <Controllable name="Q 2" id="9569" flags="" value="1" parameter="30" symbol="p2_q"/>
+        <Controllable name="F3 Active" id="9571" flags="" value="1" parameter="31" symbol="p3_active"/>
+        <Controllable name="Level 3" id="9573" flags="" value="1.9657824039459229" parameter="32" symbol="p3_level"/>
+        <Controllable name="Freq 3" id="9575" flags="" value="2009.2510986328125" parameter="33" symbol="p3_freq"/>
+        <Controllable name="Q 3" id="9577" flags="" value="1" parameter="34" symbol="p3_q"/>
+        <Controllable name="Individual Filters" id="9579" flags="Toggle" value="1" parameter="35" symbol="individuals"/>
+        <Controllable name="Zoom" id="9581" flags="" value="0.25" parameter="36" symbol="zoom"/>
+        <Controllable name="Analyzer Active" id="9583" flags="Toggle" value="1" parameter="37" symbol="analyzer"/>
+        <Controllable name="Analyzer Mode" id="9585" flags="" value="1" parameter="38" symbol="analyzer_mode"/>
       </Processor>
       <Processor id="6122" name="Calf Compressor" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Compressor" count="1" custom="0">
         <Automation>
@@ -580,7 +816,7 @@
       <Processor id="2726" name="Dirt Guitar" active="1" user-latency="0" own-input="1" own-output="0" output="Dirt Guitar" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
-          <Controllable name="pan-azimuth" id="2712" flags="" value="0.6481481481481487"/>
+          <Controllable name="pan-azimuth" id="2712" flags="" value="1"/>
           <Controllable name="pan-width" id="2716" flags="" value="0"/>
           <Controllable name="pan-elevation" id="2714" flags="" value="0"/>
           <Controllable name="pan-frontback" id="2718" flags="" value="0"/>
@@ -630,7 +866,7 @@
         <AutomationList automation-id="monitor" id="3294" interpolation-style="Discrete" state="Off"/>
       </Automation>
       <Pannable>
-        <Controllable name="pan-azimuth" id="3274" flags="" value="0.3518518518518513"/>
+        <Controllable name="pan-azimuth" id="3274" flags="" value="0.59876543209876565"/>
         <Controllable name="pan-width" id="3278" flags="" value="0"/>
         <Controllable name="pan-elevation" id="3276" flags="" value="0"/>
         <Controllable name="pan-frontback" id="3280" flags="" value="0"/>
@@ -653,7 +889,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="3258" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="3259" flags="GainLike" value="1"/>
+        <Controllable name="gaincontrol" id="3259" flags="GainLike" value="0.30414366722106934"/>
       </Processor>
       <Processor id="6149" name="Calf Compressor" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Compressor" count="1" custom="0">
         <Automation>
@@ -716,7 +952,7 @@
       <Processor id="3288" name="Clean Guitar" active="1" user-latency="0" own-input="1" own-output="0" output="Clean Guitar" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
-          <Controllable name="pan-azimuth" id="3274" flags="" value="0.3518518518518513"/>
+          <Controllable name="pan-azimuth" id="3274" flags="" value="0.59876543209876565"/>
           <Controllable name="pan-width" id="3278" flags="" value="0"/>
           <Controllable name="pan-elevation" id="3276" flags="" value="0"/>
           <Controllable name="pan-frontback" id="3280" flags="" value="0"/>
@@ -997,7 +1233,7 @@
           <Channelmap type="audio" from="0" to="0"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0">
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
           <Port symbol="bypass" value="0"/>
           <Port symbol="level_in" value="1"/>
           <Port symbol="threshold" value="0.125"/>
@@ -1047,7 +1283,7 @@
       <Diskstream flags="Recordable" playlist="Lead Guit.1" name="Lead Guit" id="3551" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="5533" name="junk" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="6" flags="AudioTrack,OrderSet" color="2128980735"/>
+      <PresentationInfo order="7" flags="AudioTrack,OrderSet" color="2128980735"/>
       <Controllable name="solo" id="5541" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="5547" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="5549" flags="Toggle" value="0" solo-safe="0"/>
@@ -1129,6 +1365,87 @@
       <Controllable name="rec-safe" id="5571" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="5569" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="junk.1" name="junk" id="5574" speed="1" capture-alignment="Automatic" record-safe="0" channels="2"/>
+    </Route>
+    <Route id="8898" name="Bass" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
+      <PresentationInfo order="6" flags="AudioTrack,OrderSet" color="1926948351"/>
+      <Controllable name="solo" id="8906" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="8912" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="8914" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="Bass" id="8926" direction="Input" default-type="audio" user-latency="0">
+        <Port type="audio" name="Bass/audio_in 1">
+          <Connection other="system:capture_2"/>
+        </Port>
+      </IO>
+      <IO name="Bass" id="8927" direction="Output" default-type="audio" user-latency="0">
+        <Port type="audio" name="Bass/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="Bass/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="8908" flags="Toggle,RealTime" value="1"/>
+      <Controllable name="phase" id="8910" flags="Toggle" value="0" phase-invert="0"/>
+      <Automation>
+        <AutomationList automation-id="solo" id="8905" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="8911" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="8913" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="8907" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="8933" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="8935" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="8909" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="8937" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="8917" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="8921" flags="" value="0"/>
+        <Controllable name="pan-elevation" id="8919" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="8923" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="8925" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="8916" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="8918" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="8920" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="8922" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="8924" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="8929" name="Amp" active="1" user-latency="0" type="trim">
+        <Automation>
+          <AutomationList automation-id="trim" id="8903" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="trimcontrol" id="8904" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="8928" name="Amp" active="1" user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="8901" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="8902" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="8930" name="meter-Bass" active="1" user-latency="0" type="meter"/>
+      <Processor id="8931" name="Bass" active="1" user-latency="0" own-input="1" own-output="0" output="Bass" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="8917" flags="" value="0.5"/>
+          <Controllable name="pan-width" id="8921" flags="" value="0"/>
+          <Controllable name="pan-elevation" id="8919" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="8923" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="8925" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="8916" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="8918" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="8920" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="8922" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="8924" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="8938" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="8936" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="8934" flags="Toggle,RealTime" value="0"/>
+      <Diskstream flags="Recordable" playlist="Bass.1" name="Bass" id="8939" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
   </Routes>
   <Playlists>
@@ -1973,132 +2290,411 @@
         </InverseFadeOut>
       </Region>
     </Playlist>
-    <Playlist id="2735" name="Analog Guitar.1" type="audio" orig-track-id="2693" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="Analog Guitar-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="260466" length="1099744" position="264600" beat="8" sync-position="260466" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3015" type="audio" first-edit="nothing" source-0="2987" master-source-0="2987" channels="1">
+    <Playlist id="2735" name="Analog Guitar.1" type="audio" orig-track-id="2693" shared-with-ids="" frozen="0" combine-ops="1">
+      <Region name="Analog Guitar.1 compound-1.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="272512" length="45478" position="314213" beat="9.5" sync-position="272512" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="10018" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="3016" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="10019" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="3017" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="10020" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="3018" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="10021" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="3019" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="10022" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Analog Guitar-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="22784" position="1395455" beat="42.190627362055935" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2894" type="audio" first-edit="nothing" source-0="2738" master-source-0="2738" channels="1">
+      <Region name="Analog Guitar.1 compound-1.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="49255" length="157107" position="359691" beat="10.875" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9590" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="2895" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="9591" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="2896" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="9592" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="2897" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="9593" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="2898" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="9594" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Dirt Guitar-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="90956" length="1099744" position="1546256" beat="46.75" sync-position="90956" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3207" type="audio" first-edit="nothing" source-0="3188" master-source-0="3188" channels="1">
+      <Region name="Analog Guitar.1 compound-1.@99" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="45478" position="512663" beat="0" sync-position="0" ancestral-start="206362" ancestral-length="45478" stretch="1" shift="0.99711602926254272" positional-lock-style="AudioTime" layering-index="11" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="10119" type="audio" first-edit="nothing" source-0="10117" master-source-0="8741" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="3208" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="10120" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="3209" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="10121" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="3210" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="10122" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="3211" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="10123" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Dirt Guitar-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="115763" length="1447117" position="1571063" beat="47.5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3174" type="audio" first-edit="nothing" source-0="3132" master-source-0="3132" channels="1">
+      <Region name="Analog Guitar.1 compound-1.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="251840" length="20672" position="558141" beat="16.875" sync-position="251840" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9918" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="3175" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="9919" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="3176" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="9920" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="3177" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="9921" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="3178" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="9922" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Analog Guitar-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1545216" position="6032053" beat="182.375" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2973" type="audio" first-edit="nothing" source-0="2941" master-source-0="2941" channels="1">
+      <Region name="Analog Guitar.1 compound-1.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="272512" length="20671" position="578813" beat="17.5" sync-position="272512" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="9945" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="9946" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="9947" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="9948" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="9949" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Analog Guitar.1 compound-1.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="293183" length="491991" position="599484" beat="18.125" sync-position="293183" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="10718" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="10719" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="10720" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="10721" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="10722" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Analog Guitar.1 compound-1.2@99" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="45478" position="777263" beat="23.5" sync-position="0" ancestral-start="206362" ancestral-length="45478" stretch="1" shift="0.99711602926254272" positional-lock-style="AudioTime" layering-index="12" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="10271" type="audio" first-edit="nothing" source-0="10117" master-source-0="8741" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="10272" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="10273" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="10274" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="10275" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Analog Guitar.1 compound-1.4@99" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="45478" position="1045997" beat="31.625" sync-position="0" ancestral-start="206362" ancestral-length="45478" stretch="1" shift="0.99711602926254272" positional-lock-style="AudioTime" layering-index="13" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="10379" type="audio" first-edit="nothing" source-0="10117" master-source-0="8741" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="10380" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="10381" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="10382" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="10383" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Analog Guitar.1 compound-1.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="801712" length="252197" position="1108013" beat="33.5" sync-position="801712" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="10726" type="audio" first-edit="nothing" source-0="8741" master-source-0="8741" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="10727" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="10728" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="10729" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="10730" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Analog Guitar.1 compound-1.7@99" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="45478" position="1314731" beat="39.75" sync-position="0" ancestral-start="206362" ancestral-length="45478" stretch="1" shift="0.99711602926254272" positional-lock-style="AudioTime" layering-index="14" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="10603" type="audio" first-edit="nothing" source-0="10117" master-source-0="8741" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="10604" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="10605" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="10606" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="10607" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Dirt Guitar-3.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="90956" length="293541" position="1810856" beat="54.75" sync-position="90956" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="8768" type="audio" first-edit="nothing" source-0="3188" master-source-0="3188" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="8769" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="8770" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="8771" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="8772" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Dirt Guitar-3.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="90956" length="293541" position="2340056" beat="70.75" sync-position="90956" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="8876" type="audio" first-edit="nothing" source-0="3188" master-source-0="3188" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="8877" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="8878" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="8879" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="8880" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Dirt Guitar-3.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="384497" length="806203" position="5428434" beat="164.125" sync-position="384497" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="8777" type="audio" first-edit="nothing" source-0="3188" master-source-0="3188" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="8778" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="8779" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="8780" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="8781" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Analog Guitar-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1545216" position="6238772" beat="188.625" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="2973" type="audio" first-edit="nothing" source-0="2941" master-source-0="2941" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="2974" interpolation-style="Curved" state="Off">
@@ -2129,9 +2725,40 @@
           </AutomationList>
         </InverseFadeOut>
       </Region>
+      <Region name="Dirt Guitar-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="115763" length="1447117" position="8049628" beat="243.375" sync-position="115763" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3174" type="audio" first-edit="nothing" source-0="3132" master-source-0="3132" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="3175" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="3176" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="3177" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="3178" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
     </Playlist>
     <Playlist id="3297" name="Clean Guitar.1" type="audio" orig-track-id="3255" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="Clean Guitar-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="132300" length="1306463" position="264600" beat="8" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3696" type="audio" first-edit="nothing" source-0="3677" master-source-0="3677" channels="1">
+      <Region name="Clean Guitar-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="132300" length="1302328" position="264600" beat="8" sync-position="132300" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.79432821273803711" id="3696" type="audio" first-edit="nothing" source-0="3677" master-source-0="3677" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="3697" interpolation-style="Curved" state="Off">
@@ -2162,7 +2789,7 @@
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Clean Guitar-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1537988" position="1455300" beat="44" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="3626" type="audio" first-edit="nothing" source-0="3431" master-source-0="3431" channels="1">
+      <Region name="Clean Guitar-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1112147" position="1455300" beat="44" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.79432821273803711" id="3626" type="audio" first-edit="nothing" source-0="3431" master-source-0="3431" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="3627" interpolation-style="Curved" state="Off">
@@ -2193,31 +2820,93 @@
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Bass guit" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3109050" length="3106118" position="3109050" beat="94" sync-position="3109050" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.5786755084991455" id="5986" type="audio" first-edit="nothing" source-0="5879" source-1="5881" master-source-0="5879" master-source-1="5881" channels="2">
+      <Region name="Clean Guitar-4.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="314212" length="70285" position="2038247" beat="61.625" sync-position="314212" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.79432821273803711" id="9394" type="audio" first-edit="nothing" source-0="3431" master-source-0="3431" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="5987" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="9395" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="5988" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="9396" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="5989" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="9397" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="5990" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="9398" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Clean Guitar-4.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="314212" length="70285" position="2298713" beat="69.5" sync-position="314212" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.79432821273803711" id="9336" type="audio" first-edit="nothing" source-0="3431" master-source-0="3431" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="9337" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="9338" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="9339" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="9340" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Clean Guitar-4.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="314212" length="70285" position="2567447" beat="77.625" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.79432821273803711" id="9215" type="audio" first-edit="nothing" source-0="3431" master-source-0="3431" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="9216" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="9217" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="9218" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="9219" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -2226,7 +2915,7 @@
       </Region>
     </Playlist>
     <Playlist id="3552" name="Lead Guit.1" type="audio" orig-track-id="3510" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="Clean Guitar-3.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="140569" length="1050131" position="1595869" beat="48.25" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.369390606880188" id="3571" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1">
+      <Region name="Clean Guitar-3.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="140569" length="1050131" position="1595869" beat="48.25" sync-position="140569" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.369390606880188" id="3571" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="3572" interpolation-style="Curved" state="Off">
@@ -2257,31 +2946,186 @@
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="Clean Guitar-3.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1190700" length="3580369" position="2646000" beat="80" sync-position="1190700" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.0793607234954834" id="3583" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1">
+      <Region name="Clean Guitar-3.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1190700" length="231525" position="3212409" beat="97.125" sync-position="1190700" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.96198123693466187" id="10999" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="3584" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="11000" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="3585" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="11001" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="3586" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="11002" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="3587" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="11003" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Clean Guitar-3.22" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="330749" length="186047" position="3443934" beat="104.125" sync-position="330749" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.369390606880188" id="11809" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="11810" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="11811" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="11812" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="11813" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Clean Guitar-3.18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1662019" length="702844" position="3547294" beat="107.25" sync-position="1806722" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.96198123693466187" id="11035" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="11036" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="11037" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="11038" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="11039" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Clean Guitar-3.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="2464088" length="148837" position="4217063" beat="127.5" sync-position="2464088" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.96198123693466187" id="12156" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="12157" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="12158" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="12159" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="12160" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Clean Guitar-3.30" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3241350" length="359691" position="4365900" beat="132" sync-position="3241350" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.96198123693466187" id="12366" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="12367" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="12368" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="12369" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="12370" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Clean Guitar-3.31" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4266675" length="549872" position="4729725" beat="143" sync-position="4233600" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="0.96198123693466187" id="12375" type="audio" first-edit="nothing" source-0="3377" master-source-0="3377" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="12376" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="12377" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="12378" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="12379" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -2415,6 +3259,101 @@
         </InverseFadeOut>
       </Region>
     </Playlist>
+    <Playlist id="8940" name="Bass.1" type="audio" orig-track-id="8898" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Bass guit.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4771069" length="1008788" position="4258406" beat="128.75" sync-position="4771069" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.5786755084991455" id="11257" type="audio" first-edit="nothing" source-0="5879" source-1="5881" master-source-0="5879" master-source-1="5881" channels="2">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="11258" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="11259" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="11260" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="11261" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Bass guit.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5779857" length="435311" position="5941097" beat="179.625" sync-position="5779857" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.5786755084991455" id="11266" type="audio" first-edit="nothing" source-0="5879" source-1="5881" master-source-0="5879" master-source-1="5881" channels="2">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="11267" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="11268" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="11269" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="11270" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="Bass guit.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3187603" length="1583466" position="6445491" beat="194.875" sync-position="3187603" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1.5786755084991455" id="11230" type="audio" first-edit="nothing" source-0="5879" source-1="5881" master-source-0="5879" master-source-1="5881" channels="2">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="11231" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="11232" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="11233" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="11234" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+    </Playlist>
   </Playlists>
   <UnusedPlaylists/>
   <RouteGroups/>
@@ -2514,6 +3453,7 @@
       <Window name="RPM-2693" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-3255" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-3510" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-5533" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-54-85" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-54-84" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-54-157" visible="0" x-off="0" y-off="186" x-size="847" y-size="404" custom-ui="1"/>
@@ -2542,29 +3482,38 @@
       <Window name="PM-1363-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-2693-2724" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-2693-2723" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-2693-6122" visible="0" x-off="0" y-off="25" x-size="943" y-size="427" custom-ui="1"/>
       <Window name="P-2693-2725" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-2693-2726" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="PM-2724-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-2723-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-6122-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-2725-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-2726-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-3255-3286" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-3255-3285" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-3255-6149" visible="0" x-off="0" y-off="25" x-size="943" y-size="427" custom-ui="1"/>
       <Window name="P-3255-3287" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-3255-3288" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="PM-3286-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-3285-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-6149-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-3287-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-3288-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-3510-3541" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-3510-3540" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-3510-6336" visible="0" x-off="0" y-off="0" x-size="1021" y-size="484" custom-ui="1"/>
+      <Window name="P-3510-6374" visible="0" x-off="0" y-off="0" x-size="756" y-size="780" custom-ui="1"/>
+      <Window name="P-3510-6177" visible="0" x-off="0" y-off="25" x-size="943" y-size="427" custom-ui="1"/>
       <Window name="P-3510-3542" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-3510-3543" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="PM-3541-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-3540-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-6336-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-6374-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-6177-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-3542-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-3543-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-5533" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-5533-5564" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-5533-5563" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-5533-5565" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -2573,19 +3522,20 @@
       <Window name="PM-5563-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-5565-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-5566-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-2693-6122" visible="0" x-off="0" y-off="44" x-size="943" y-size="427" custom-ui="1"/>
-      <Window name="PM-6122-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-3255-6149" visible="0" x-off="0" y-off="44" x-size="943" y-size="427" custom-ui="1"/>
-      <Window name="PM-6149-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-3510-6177" visible="0" x-off="0" y-off="44" x-size="943" y-size="427" custom-ui="1"/>
-      <Window name="PM-6177-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-3510-6336" visible="0" x-off="0" y-off="15" x-size="1021" y-size="484" custom-ui="1"/>
-      <Window name="PM-6336-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-3510-6374" visible="0" x-off="0" y-off="0" x-size="756" y-size="780" custom-ui="1"/>
-      <Window name="PM-6374-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-8898" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-8898-8929" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-8898-8928" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-8898-8930" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-8898-8931" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-8929-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-8928-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-8930-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-8931-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-2693-9531" visible="0" x-off="0" y-off="0" x-size="756" y-size="780" custom-ui="1"/>
+      <Window name="PM-9531-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
-        <Object id="rtav 54" height="66" visible="1"/>
-        <Object id="automation 58" height="66" visible="0"/>
+        <Object id="rtav 54" height="116" visible="1"/>
+        <Object id="automation 58" height="65" visible="1"/>
         <Object id="automation 60" height="66" visible="0"/>
         <Object id="automation 54 12/0/0" height="66" visible="0"/>
         <Object id="automation 73" height="66" visible="0"/>
@@ -2602,7 +3552,7 @@
         <Object id="strip 185" strip-width="Wide" visible="1">
           <Object id="processor 215"/>
         </Object>
-        <Object id="rtav 1330" height="70" visible="1"/>
+        <Object id="rtav 1330" height="91" visible="1"/>
         <Object id="automation 1334" height="66" visible="0"/>
         <Object id="automation 1336" height="66" visible="0"/>
         <Object id="automation 1330 12/0/0" height="66" visible="0"/>
@@ -2613,6 +3563,14 @@
         <Object id="strip 2693" visible="1" strip-width="Wide">
           <Object id="processor 2723"/>
           <Object id="processor 6122"/>
+          <Object id="processor 9422"/>
+          <Object id="processor 9441"/>
+          <Object id="processor 9469">
+            <Object id="control 9484" visible="1"/>
+          </Object>
+          <Object id="processor 9493"/>
+          <Object id="processor 9523"/>
+          <Object id="processor 9531"/>
         </Object>
         <Object id="rtav 2693" height="130" visible="1"/>
         <Object id="automation 2697" height="86" visible="0"/>
@@ -2651,6 +3609,14 @@
         <Object id="automation 5533 12/0/0" height="86" visible="0"/>
         <Object id="automation 5552" height="86" visible="0"/>
         <Object id="automation 5556" height="86" visible="0"/>
+        <Object id="rtav 8898" height="86" visible="1"/>
+        <Object id="automation 8902" height="86" visible="0"/>
+        <Object id="automation 8904" height="86" visible="0"/>
+        <Object id="automation 8898 12/0/0" height="86" visible="0"/>
+        <Object id="automation 8917" height="86" visible="0"/>
+        <Object id="strip 8898" strip-width="Wide" visible="1">
+          <Object id="processor 8928"/>
+        </Object>
       </GUIObjectState>
     </UI>
     <Videomonitor active="0"/>
