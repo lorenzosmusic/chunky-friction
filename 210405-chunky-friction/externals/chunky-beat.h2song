@@ -51,7 +51,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>36</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -222,7 +222,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>37</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -393,7 +393,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>38</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -564,7 +564,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>39</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -735,7 +735,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>40</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -906,7 +906,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>41</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -1077,7 +1077,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>42</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -1163,7 +1163,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>43</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -1249,7 +1249,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>44</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -1352,7 +1352,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>45</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -1489,7 +1489,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>46</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -1609,7 +1609,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>47</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -1712,7 +1712,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>48</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -1883,7 +1883,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>49</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -2003,7 +2003,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>50</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -2038,7 +2038,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>51</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -2073,7 +2073,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>52</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -2108,7 +2108,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>53</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -2143,7 +2143,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>54</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -2178,7 +2178,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>55</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -2213,7 +2213,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>56</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -2248,7 +2248,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>57</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -2283,7 +2283,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>58</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -2318,7 +2318,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>59</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -2388,7 +2388,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>61</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -2423,7 +2423,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>62</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -2458,7 +2458,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>63</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -2493,7 +2493,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>64</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -2528,7 +2528,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>65</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -2563,7 +2563,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>66</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
@@ -2598,7 +2598,7 @@
    <isStopNote>true</isStopNote>
    <sampleSelectionAlgo>VELOCITY</sampleSelectionAlgo>
    <midiOutChannel>-1</midiOutChannel>
-   <midiOutNote>60</midiOutNote>
+   <midiOutNote>67</midiOutNote>
    <isHihat>-1</isHihat>
    <lower_cc>0</lower_cc>
    <higher_cc>127</higher_cc>
