@@ -22523,11 +22523,11 @@ vol -3.7</Comment>
       <Window name="PM-8898-51406" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-33008-33551" visible="0" x-off="986" y-off="0" x-size="858" y-size="713" custom-ui="1"/>
       <Window name="PM-33008-33551" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-339237-365077" visible="0" x-off="914" y-off="313" x-size="430" y-size="522" custom-ui="1"/>
+      <Window name="P-339237-365077" visible="0" x-off="1490" y-off="0" x-size="430" y-size="522" custom-ui="1"/>
       <Window name="PM-339237-365077" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-279272-365212" visible="0" x-off="745" y-off="342" x-size="769" y-size="464" custom-ui="1"/>
+      <Window name="P-279272-365212" visible="0" x-off="1151" y-off="0" x-size="769" y-size="464" custom-ui="1"/>
       <Window name="PM-279272-365212" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-262191-365417" visible="0" x-off="745" y-off="342" x-size="769" y-size="464" custom-ui="1"/>
+      <Window name="P-262191-365417" visible="0" x-off="1151" y-off="0" x-size="769" y-size="464" custom-ui="1"/>
       <Window name="PM-262191-365417" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="116" visible="1"/>
