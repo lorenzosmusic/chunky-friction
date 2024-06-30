@@ -136,13 +136,6 @@
     </MementoCommand>
   </UndoTransaction>
   <UndoTransaction tv-sec="1709443113" tv-usec="237080" name="insert file">
-    <StatefulDiffCommand obj-id="431386" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <Regions>
-          <Add id="431398"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
     <MementoCommand obj-id="45" type-name="SelectionMemento">
       <SelectionMemento mouse-mode="MouseObject" zoom="3860" left-frame="16051881" y-origin="1741">
         <Selection>
@@ -161,13 +154,6 @@
       <Changes>
         <Regions>
           <Add id="431415"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="431386" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <Regions>
-          <Remove id="431398"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
@@ -458,22 +444,6 @@
     <StatefulDiffCommand obj-id="431505" type-name="ARDOUR::AudioRegion">
       <Changes>
         <length from="271385" to="108270"/>
-        <Envelope>
-          <from>
-            <AutomationList automation-id="envelope" id="431532" interpolation-style="Exponential" state="Off">
-              <events>0 1
-271385 1
-</events>
-            </AutomationList>
-          </from>
-          <to>
-            <AutomationList automation-id="envelope" id="431533" interpolation-style="Exponential" state="Off">
-              <events>0 1
-108270 1.0000001000000001
-</events>
-            </AutomationList>
-          </to>
-        </Envelope>
       </Changes>
     </StatefulDiffCommand>
     <MementoCommand obj-id="45" type-name="SelectionMemento">
